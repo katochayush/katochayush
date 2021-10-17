@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/838132108240355370)](https://discord.com/users/838132108240355370)
+<br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=katochayush)
