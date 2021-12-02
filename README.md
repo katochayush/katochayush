@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+<a href="https://top.gg/bot/771439016587427854">
+  <img src="https://top.gg/api/widget/771439016587427854.svg">
+</a>
+
 # Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/838132108240355370)](https://discord.com/users/838132108240355370)
 <br>
@@ -22,6 +27,7 @@ Here are some ideas to get you started:
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katochayush&show_icons=true&locale=en&layout=compact" alt="Star" /></p>
 <br>
+
 <br>
 <br>
 <h1>SOCIALS</h1>
